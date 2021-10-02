@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Srushti
-- 👀 I’m interested in aything that interests me 
+- 👀 I’m interested in anything that interests me 
 - 🌱 I’m currently learning web development and DSA
 - 📫 How to reach me Twitter-@Srushti92440147014
 
