@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srushti
 - 👀 I’m interested in anything that interests me 
-- 🌱 I’m currently learning web development and DSA
+- 🌱 I’m currently learning web development and web3
 - 📫 How to reach me Twitter-@Srushti92440147014
 
 <!---
