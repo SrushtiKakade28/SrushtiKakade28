@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srushti
-- 👀 I’m interested in Open Source ,Decentralized Autonomous Organisations and Decentralized Finance 
-- 🌱 I’m currently learning web development and web3
+- 👀 I’m interested in blockchain projects.
+- 🌱 I’m currently learning solidity
 - 📫 How to reach me Twitter-@Srushti92440147014
 
 <!---
