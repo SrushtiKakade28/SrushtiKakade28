@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Srushti
-- 👀 I’m interested in blockchain projects.
+- 👀 I’ma front end developer
 - 🌱 I’m currently learning solidity
-- 📫 How to reach me Twitter-@Srushti92440147014
+- 📫 How to reach me Twitter-@Srushtiiik
 
 <!---
 SrushtiKakade28/SrushtiKakade28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
