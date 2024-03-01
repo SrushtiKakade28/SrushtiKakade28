@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Srushti
-- 👀 I’m a front end developer
-- 🌱 I’m currently learning React and DSA,Rust and solidity.
+- 👀 I’m a full stack MERN developer
 - 📫 How to reach me Twitter-@Srushtiiik
 
 <!---
